@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1650345116 source:e:\projects_visual\arch1-0001\source.c
+	"assemble.h"
+
+1650193550 e:\projects_visual\arch1-0001\assemble.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

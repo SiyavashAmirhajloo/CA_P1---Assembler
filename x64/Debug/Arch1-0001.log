@@ -1,0 +1,12 @@
+﻿  Source.c
+E:\projects_visual\Arch1-0001-1\Source.c(41,32): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+E:\projects_visual\Arch1-0001-1\Source.c(88,61): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+E:\projects_visual\Arch1-0001-1\Source.c(108,16): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'size_t'
+E:\projects_visual\Arch1-0001-1\Source.c(108,16): message : consider using '%zd' in the format string
+E:\projects_visual\Arch1-0001-1\Source.c(109,28): warning C4477: 'fprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+E:\projects_visual\Arch1-0001-1\Source.c(109,28): message : consider using '%zd' in the format string
+E:\projects_visual\Arch1-0001-1\Source.c(9,9): warning C4101: 'symTabLen': unreferenced local variable
+E:\projects_visual\Arch1-0001-1\Source.c(18,10): warning C4101: 'lower': unreferenced local variable
+E:\projects_visual\Arch1-0001-1\Source.c(128,32): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+E:\projects_visual\Arch1-0001-1\Source.c(145,32): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+  Arch1-0001.vcxproj -> E:\projects_visual\Arch1-0001-1\x64\Debug\Arch1-0001-1.exe

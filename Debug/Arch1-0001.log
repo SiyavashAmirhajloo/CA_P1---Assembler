@@ -1,0 +1,4 @@
+﻿  Source.c
+E:\projects_visual\Arch1-0001\Source.c(8,9): warning C4101: 'symTabLen': unreferenced local variable
+E:\projects_visual\Arch1-0001\Source.c(17,10): warning C4101: 'lower': unreferenced local variable
+  Arch1-0001.vcxproj -> E:\projects_visual\Arch1-0001\Debug\Arch1-0001.exe
